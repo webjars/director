@@ -1,4 +1,5 @@
-director
-========
+Director WebJar
 
-WebJars of https://github.com/flatiron/director
+More info: http://webjars.org
+
+Upstream: https://github.com/flatiron/director
