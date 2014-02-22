@@ -27,7 +27,7 @@
 
     <licenses>
         <license>
-            <name>Copyright (c) 2011 Nodejitsu Inc.</name>
+            <name>MIT</name>
             <url>https://github.com/flatiron/director/blob/master/LICENSE</url>
             <distribution>repo</distribution>
         </license>
